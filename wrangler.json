@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "testing01",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "674eff03-303d-45b3-af20-178f6565b951",
+      "database_name": "ima-try-this-rllly-quick"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
